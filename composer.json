@@ -9,6 +9,7 @@
             "email": "ridwanul.hafiz@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Rdhafiz\\Console\\": "src/"
