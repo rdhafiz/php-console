@@ -1,5 +1,5 @@
 {
-    "name": "rdhafiz/php-console",
+    "name": "rdhafiz/php-console-log",
     "description": "Console Log - A php console version for printing debug results, warning or errors",
     "type": "project",
     "license": "MIT",
